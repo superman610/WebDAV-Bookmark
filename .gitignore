@@ -1,0 +1,16 @@
+# 编辑器/IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 本地缓存与日志
+*.log
+.cache/
+
+# 若使用构建工具，忽略产物（油猴脚本若无需构建可保留此条）
+dist/
+build/
+
+# 依赖包（若引入npm依赖）
+node_modules/
